@@ -23,3 +23,9 @@ alias pip='pip3'
 ```cmd
 pip install pipenv
 ```
+
+~/.profileの末尾に追加
+
+```txt
+export PIPENV_VENV_IN_PROJECT=true
+```
