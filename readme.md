@@ -8,6 +8,16 @@
 
 インストール後 `python -V` でバージョンが表示されればインストール完了
 
+## エイリアス登録
+
+~/.bashrcの末尾に追加
+
+```txt
+alias sudo='sudo '
+alias python='python3'
+alias pip='pip3'
+```
+
 ## Pipenvのインストール
 
 ```cmd
