@@ -19,7 +19,7 @@ alias pip='pip3'
 ## Pipenvのインストール
 
 ```cmd
-pip install pipenv
+pip install pipenv pipenv-shebang
 ```
 
 ~/.zshrcの末尾に追加
