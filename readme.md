@@ -26,4 +26,5 @@ pip install pipenv pipenv-shebang
 
 ```txt
 export PIPENV_VENV_IN_PROJECT=true
+export PIPENV_VERBOSITY=-1
 ```
