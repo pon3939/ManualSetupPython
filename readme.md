@@ -8,7 +8,7 @@ apt install python3
 
 ## エイリアス登録
 
-~/.bashrcの末尾に追加
+~/.zshrc の末尾に追加
 
 ```txt
 alias sudo='sudo '
@@ -22,7 +22,7 @@ alias pip='pip3'
 pip install pipenv
 ```
 
-~/.profileの末尾に追加
+~/.zshrcの末尾に追加
 
 ```txt
 export PIPENV_VENV_IN_PROJECT=true
